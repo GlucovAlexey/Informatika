@@ -1,6 +1,6 @@
 a = float(input())
 k = a
-S = 2
+S = 1
 while a != 0:
 	if a != k:
 		S+=1
