@@ -9,6 +9,6 @@ for i in range(14):
 		flag = False
 	k = a
 if t==1:
- pint("OK")
+   pint("OK")
 else:
- print("Not OK:", t)
+   print("Not OK:", t)
