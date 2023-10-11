@@ -8,4 +8,7 @@ for i in range(14):
 		t = i+2
 		flag = False
 	k = a
-print(t)
+if t==1:
+ pint("OK")
+else:
+ print("Not OK:", t)
