@@ -6,7 +6,7 @@ flag = True
 
 l = 1
 k = a
-for i in range(0, 7):
+for i in range(0, 14):
 	a = float(input())
 	if ((a - n) > 0) and flag:
 		if abs(b-n) < abs(a-n):
